@@ -1,0 +1,15 @@
+#name,#section,#class,#rollnumber,#marks1,#marks2,#marks3,#marks4,#sub1,#sub2,#sub3,#sub4{
+    width:900px;
+    height: 80px;
+    color: black;
+    font-size: 90px;
+    margin-top: 15px;
+}
+body{
+    background-color: aqua;
+    align-content: center;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+}
